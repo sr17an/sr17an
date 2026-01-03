@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: academic projects and hands-on practice<br><br>👯 I’m looking to collaborate on: beginner-friendly open-source and learning projects<br><br>🤝 I’m looking for help with: cybersecurity concepts, machine learning, and real-world coding<br><br>🌱 I’m currently learning: Cyber Security, Machine Learning, Coding (Python, C/C++, etc.), Web Development<br><br>💬 Ask me about: my learning journey in tech and computer science as a student at Ramakrishna Mission Vidyamandira<br><br>⚡ Fun fact: I enjoy learning new technologies and experimenting with them
+🔭 academic projects and hands-on practice.<br>👯 beginner-friendly open-source and learning projects.<br>🤝 cybersecurity concepts, machine learning, and real-world coding.<br>🌱 Cyber Security, Machine Learning, Coding (Python, C/C++, etc.), Web Development.<br>💬 My learning journey in tech and computer science as a student at Ramakrishna Mission Vidyamandira.<br>⚡ I enjoy learning new technologies and experimenting with them.
 
 
 ## 🌐 Socials:
